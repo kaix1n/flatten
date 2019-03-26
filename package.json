@@ -1,0 +1,34 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Flatten Object keys",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.1",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "prettier": "^1.15.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/monopieces/flatten.git"
+  },
+  "keywords": [
+    "deep-flatten",
+    "flatten-object",
+    "flatten",
+    "object"
+  ],
+  "author": "monopieces",
+  "bugs": {
+    "url": "https://github.com/monopieces/flatten/issues"
+  },
+  "homepage": "https://github.com/monopieces/flatten"
+}
