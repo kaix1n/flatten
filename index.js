@@ -20,22 +20,4 @@ const flatten = (data = {}, node = '') => {
     }, []);
 };
 
-// const data = {
-//     m: {
-//         a: ['a1', 'a2', 'a3', 'a4', 'a5', 'a6', 'a7'],
-//         b: {
-//             c: ['c1', 'c2'],
-//             d: {
-//                 e: ['e1', 'd2'],
-//                 f: { g: ['g1'] },
-//             },
-//         },
-//         h: { i: ['i1'] },
-//         k: 'k1',
-//     },
-// };
-
-// const debug = flatten(data);
-// console.log('>>\n:', debug);
-
 module.exports = flatten;

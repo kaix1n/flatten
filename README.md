@@ -1,6 +1,6 @@
 # flatten
 
-Deep flatten object.
+Deeply flatten object key.
 
 ```js
 import flatten from 'flatten';
