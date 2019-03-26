@@ -1,5 +1,5 @@
 {
-  "name": "flatten",
+  "name": "recursive-flatten",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Flatten Object keys",
@@ -21,8 +21,9 @@
     "url": "git://github.com/monopieces/flatten.git"
   },
   "keywords": [
-    "deep-flatten",
+    "recursive-flatten",
     "flatten-object",
+    "recursive",
     "flatten",
     "object"
   ],
