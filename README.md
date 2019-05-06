@@ -1,5 +1,7 @@
 # flatten
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/monopieces/flatten.svg)](https://greenkeeper.io/)
+
 Deeply flatten object key.
 
 ```js
