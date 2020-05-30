@@ -5,7 +5,7 @@
   "description": "Flatten Object keys",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
-    "@babel/core": "^7.4.0",
+    "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.4.1",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.5.0",
